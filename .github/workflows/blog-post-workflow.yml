@@ -1,0 +1,27 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # 每 24 小时运行一次（UTC 时间每天 00:00）
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v4
+        with:
+          # ==========================================================
+          # 只需在公众号 / 知乎后台开启 RSS 并替换下方 URL 即可激活
+          # 支持多个 RSS 源，用逗号分隔
+          # ==========================================================
+          feed_list: "https://example.com/rss.xml"
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          template: '- [$title]($url) — $date'
+          date_format: "yyyy-MM-dd"
