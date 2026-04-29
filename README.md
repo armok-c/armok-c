@@ -37,11 +37,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=armok-c&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847&text_color=9f9f9f" alt="GitHub Stats" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=armok-c&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=FE428E&fire=FC7E09&currStreakLabel=FE428E&sideLabels=9F9F9F&dates=9F9F9F" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armok-c&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&text_color=9f9f9f" alt="Top Languages" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=armok-c&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="49%"/>
 
 ---
 
