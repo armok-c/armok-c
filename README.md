@@ -1,9 +1,7 @@
 <div>
-
+  
 # 👋 Hi, I'm **@armok-c**
-
 ### 🏗️ *Building the future, one commit at a time.*
-
 ### 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-121212?style=for-the-badge&logo=rust&logoColor=CE422B)
@@ -15,11 +13,10 @@
 ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032)
 ![Neovim](https://img.shields.io/badge/Neovim-121212?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![Tmux](https://img.shields.io/badge/Tmux-121212?style=for-the-badge&logo=tmux&logoColor=1BB91F)
-
 ### 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=armok-c&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=FE428E&fire=FC7E09&currStreakLabel=FE428E&sideLabels=9F9F9F&dates=9F9F9F" alt="GitHub Streak" width="49%"/>
-
+---
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armok-c)
