@@ -1,7 +1,6 @@
 <div>
   
 # 👋 Hi, I'm **@armok-c**
-### 🏗️ *Building the future, one commit at a time.*
 ### 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-121212?style=for-the-badge&logo=rust&logoColor=CE422B)
